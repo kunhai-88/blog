@@ -1,4 +1,4 @@
-# 在Ubuntu安装指定版本的node和npm
+# 在Ubuntu下安装指定版本的node和npm
 1. 从[node的淘宝的镜像](https://npm.taobao.org/mirrors/node/v10.13.0/node-v10.13.0-linux-x64.tar.gz)下载对应的node安装包。(可以使用wget下载)
 2. 解压
   ```
