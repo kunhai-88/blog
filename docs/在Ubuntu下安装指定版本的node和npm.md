@@ -10,7 +10,8 @@ cd node-v10.13.0-linux-x64/bin
 cp node /usr/bin
 ```
 node安装成功
-4.使用node-v10.13.0-linux-x64/lib/node_modules/npm/下的npm-cli.js 安装npm
+
+4. 使用node-v10.13.0-linux-x64/lib/node_modules/npm/下的npm-cli.js 安装npm
 ```
 cd node-v10.13.0-linux-x64/lib/node_modules/npm/
 ./npm-cli.js install -g npm
